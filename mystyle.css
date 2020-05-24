@@ -5,9 +5,8 @@
     font-family: Georgia, serif;
 }
 
-header {
+html {
     background: url(media/FrontSide.jpg) no-repeat center center fixed;
-    height: 100vh;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
