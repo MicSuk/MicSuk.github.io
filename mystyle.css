@@ -82,11 +82,37 @@ ul li a:hover{
 /*--------------------------------------------------------------------------------------------------------------------*/
 h1{
     color: black;
+    font-weight: bold;
     font-size: 24pt;
     font-family: "Verdana", sans-serif;
 }
 h2{
     color: black;
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: "Verdana", sans-serif;
+}
+h3{
+    color: black;
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: "Verdana", sans-serif;
+}
+h4{
+    color: black;
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: "Verdana", sans-serif;
+}
+h5{
+    color: black;
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: "Verdana", sans-serif;
+}
+h6{
+    color: black;
+    font-weight: bold;
     font-size: 18pt;
     font-family: "Verdana", sans-serif;
 }
