@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Century Gothic, serif;
+    font-family: Georgia, serif;
 }
 
 header {
@@ -50,20 +50,20 @@ ul li a:hover{
 
 .title{
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 30%;
+    left: 45%;
     transform: translate(-50%, -50%);
 }
 
 .title{
     color: #fff;
-    font-size: 70px;
+    font-size: 20px;
 }
 
 .button{
     position: absolute;
-    top: 60%;
-    left: 51%;
+    top: 50%;
+    left: 52%;
     transform: translate(-50%, -50%);
 }
 
