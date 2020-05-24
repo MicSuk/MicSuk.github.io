@@ -91,19 +91,14 @@ h2{
     font-family: "Verdana", sans-serif;
 }
 /*--------------------------------------------------------------------------------------------------------------------*/
-.text-center{
+.anfahrt{
     position: absolute;
-    color: #000;
-    top: 50%;
-    left: 20%;
-    transform: translate(-50%, -50%);
+    top: 30%;
+    left: 5%;
+    margin: 0 auto;
+    width: 1000px;
 }
 
-.anfahrt{
-    position: relative;
-    width: 20px;
-    height: 20px;
-    top: 10px;
-    left: 10px;
-
+.plan {
+    width: 500px;
 }
